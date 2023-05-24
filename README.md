@@ -39,7 +39,7 @@ First create a resource group by typing resource group in the searchbar in the t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next we will login into the VM through Remote Desktop and install / enable IIS along with the other prerequisites for osTicket. IIS is essentially a web service that allows the CPU to serve up websites. Since osTicket runs out of a web site, we need to configure IIS. In the snippet above open the control panel -> programs -> Windows features on and off, you'll find and check the box for Internet Information Service -> World Wide Web -> Application Development Features -> check the box for CGI. Below should be Common HTTP Features and we'll check that as well. 
+Next we will login into the VM through Remote Desktop and install / enable IIS along with the other prerequisites for osTicket. IIS is essentially a web service that allows the CPU to serve up websites. Since osTicket runs out of a web site, we need to configure IIS. As presented in the snippet above, open the control panel -> programs -> Windows features on and off, you'll find and check the box for Internet Information Service -> World Wide Web -> Application Development Features -> check the box for CGI. Below should be Common HTTP Features and we'll check that as well. 
 </p>
 <br />
 
