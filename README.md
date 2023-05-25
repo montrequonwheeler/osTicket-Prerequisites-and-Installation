@@ -63,7 +63,7 @@ Incase of running into any issues when downlaoding the files for PHP, like the v
 <img src="https://github.com/montrequonwheeler/osticket-prereqs/assets/127397594/3bd8df51-68b1-4d76-92b7-b7319283b4a4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that PHP, VC_redist, and MySQL are installed, next will be to open and run IIS as administrator and register PHP from within IIS and reload IIS. Anytime we do anything within IIS it is recommended to reload IIS (within IIS, in the top right corner stop and start the server).
+Now that PHP, VC_redist, and MySQL are installed, next will be to open and run IIS as administrator and register PHP from within IIS and reload IIS. Anytime we make any changes or updates within IIS it is recommended to reload IIS (within IIS, in the top right corner stop and start the server).
 </p>
 <br />
 
