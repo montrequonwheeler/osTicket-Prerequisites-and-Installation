@@ -55,7 +55,7 @@ To test if our web servers are working correctly, we can open a new tab and type
 <img src="https://github.com/montrequonwheeler/osticket-prereqs/assets/127397594/e713158d-4150-4b33-9b19-ee91f4cb7a00" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that PHP, VC_redist, and MySQL are installed, next will be to open and run IIS as administrator and register PHP from within IIS and reload IIS. Anytime we do anything within IIS it is recommended to reload IIS (within IIS, in the top right corner stop and start the server).
 </p>
 <br />
 
