@@ -47,7 +47,7 @@ Next we will login into the VM through Remote Desktop and install / enable IIS a
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To test if our web servers are working correctly, we can open a new tab and type 127.0.0.1 which is a local host or loopback. The tab should look like the picture above. We needed to install CGI with IIS because it lets us install PHP Manager and osTicket runs off of PHP. So we have to install a web server (IIS) with PHP on the CPU. Next up is to download and install, PHP Manager for IIS, Rewrite Module, PHP, VC_redist, MySQL, osTIcket, and HeidiSQL a few special instructions.
+To test if our web servers are working correctly, we can open a new tab and type 127.0.0.1 which is a local host or loopback. The tab should look like the picture above. We needed to install CGI with IIS because it lets us install PHP Manager and osTicket runs off of PHP. So we have to install a web server (IIS) with PHP on the CPU. Next up is to download and install, PHP Manager for IIS, Rewrite Module, PHP, VC_redist, MySQL, osTIcket, and HeidiSQL with a few special instructions.
 </p>
 <br />
 
