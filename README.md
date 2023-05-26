@@ -71,6 +71,38 @@ Now that PHP, VC_redist, and MySQL are installed, next will be to open and run I
 <img src="https://github.com/montrequonwheeler/osticket-prereqs/assets/127397594/1868a4cb-c1b4-45c5-bcec-5af41854b29d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Once PHP Manager is enabled and both VC_redist, and MySQL are installed, next will be to install osTicket and open in the browser.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/montrequonwheeler/osticket-prereqs/assets/127397594/eb77f16b-d543-4be6-9c5b-8b791de8bdee" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+As per instucted in the link above, the fourth to last step will be to assign permissions:ost-config.php as presented in the video below
+</p>
+<br />
+
+<p>
+<img src="https://github.com/montrequonwheeler/osticket-prereqs/assets/127397594/f3b2b48e-fff4-4d5a-8586-4a361e4f3efb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next will be to install HeidiSQL. In the previous downloads when installing MySQL, it was installing a database on the actual CPU so osTicket can store the application data like tickets and the users. HeidiSQL will allow us to to connect to the SQL server. Then we're going to set up a database the osTicket is going to use.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/montrequonwheeler/osticket-prereqs/assets/127397594/1cfb281c-c240-4ee3-bc85-c156b7f108bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
