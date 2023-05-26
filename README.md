@@ -79,7 +79,7 @@ Once PHP Manager is enabled and both VC_redist, and MySQL are installed, next wi
 <img src="https://github.com/montrequonwheeler/osticket-prereqs/assets/127397594/eb77f16b-d543-4be6-9c5b-8b791de8bdee" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As per instucted in the link above, the fourth to last step will be to assign permissions:ost-config.php as presented in the video below
+As per instucted in the link above, the fourth to last step will be to assign permissions:ost-config.php as presented in the video below. We're going to allow everyone to have permission for this file because the osTicket installer that's going to run in this browser to manipulate and interact with this file and we're unsure of which user it's going to use to do that.
 </p>
 <br />
 
@@ -103,3 +103,4 @@ After finshing up the installation for everything, last is to clean up and then 
 <img src="https://github.com/montrequonwheeler/osticket-prereqs/assets/127397594/10d7a406-44b6-4847-9846-1d890e36849c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Now we can move on the post installation of this project.
