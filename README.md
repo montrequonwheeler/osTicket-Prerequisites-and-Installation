@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This walkthrough outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This walkthrough outlines the prerequisites and installation of the open-source help desk ticketing system osTicket There will also be a video demonstration of this portion of the in it's entirety in the YouTube link below in case of any hiccups along the process For the short videos provided you can simply click the video and it should open in a new tab for better guidance.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -103,4 +103,4 @@ After finshing up the installation for everything, last is to clean up and then 
 <img src="https://github.com/montrequonwheeler/osticket-prereqs/assets/127397594/10d7a406-44b6-4847-9846-1d890e36849c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we can move on the post installation of this project.
+Now we can move on to the post installation of this project.
