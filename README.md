@@ -23,7 +23,7 @@ This walkthrough outlines the prerequisites and installation of the open-source 
 <h2>List of Prerequisites</h2>
 
 - Setup a VM in Azure
-- Install the osTicket requirements from the link provided https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#bookmark=id.cajb4ktub1km
+- Install the osTicket requirements from the link provided https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 <h2>Installation Steps</h2>
 
