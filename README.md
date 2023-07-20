@@ -3,6 +3,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
+**DISCLAIMER - PICTURES/VIDEOS MAY NEED TO BE OPENED IN A NEW TAB TO BE DISPLAYED IF VIEWING ON BROWSERS OTHER THAN SAFARI**
+
 This walkthrough outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. There will also be a video demonstration of this portion of the project in it's entirety in the YouTube link below in case of any hiccups along the process. For the short videos provided, you can simply click the video and it should open in a new tab for better guidance.<br />
 
 
